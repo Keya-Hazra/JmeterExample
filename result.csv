@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1693028252358,2021,HTTP Request,200,OK,Thread Group 1-1,text,true,,759636,118,3,3,https://www.daraz.com.bd/,1233,0,1155
+1693028254403,488,HTTP Request,200,OK,Thread Group 1-1,text,true,,759632,118,3,3,https://www.daraz.com.bd/,60,0,0
+1693028253221,1803,HTTP Request,200,OK,Thread Group 1-2,text,true,,759605,118,2,2,https://www.daraz.com.bd/,378,0,300
+1693028255026,652,HTTP Request,200,OK,Thread Group 1-2,text,true,,759620,118,2,2,https://www.daraz.com.bd/,59,0,0
+1693028254200,1666,HTTP Request,200,OK,Thread Group 1-3,text,true,,759573,118,1,1,https://www.daraz.com.bd/,248,0,188
+1693028255868,640,HTTP Request,200,OK,Thread Group 1-3,text,true,,759606,118,1,1,https://www.daraz.com.bd/,58,0,0
